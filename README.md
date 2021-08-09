@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/adelinejune/3-column-card-preview-component-main.github.io)
+- Solution URL: [https://github.com/adelinejune/3-column-card-preview-component-main.github.io](https://github.com/adelinejune/3-column-card-preview-component-main.github.io)
+- Live Site URL: [https://adelinejune.github.io/3-column-card-preview-component-main.github.io/](https://adelinejune.github.io/3-column-card-preview-component-main.github.io/)
 
 ### Built with
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/adelinejune)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adelinejune)
+- Website - [adeline june](https://github.com/adelinejune)
+- Frontend Mentor - [@adelinejune](https://www.frontendmentor.io/profile/adelinejune)
 
 
