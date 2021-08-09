@@ -28,11 +28,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![Screenshot 2021-08-09 at 16-30-02 Three Column Preview Card](https://user-images.githubusercontent.com/75600902/128682403-4199893b-5dc8-4dcc-900f-5dd001bf5da6.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://github.com/adelinejune/3-column-card-preview-component-main.github.io)
 
 ### Built with
 
@@ -41,16 +42,9 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://github.com/adelinejune)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adelinejune)
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
