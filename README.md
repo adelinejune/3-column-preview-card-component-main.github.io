@@ -8,13 +8,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -28,7 +23,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![Screenshot 2021-08-09 at 16-30-02 Three Column Preview Card](https://user-images.githubusercontent.com/75600902/128682403-4199893b-5dc8-4dcc-900f-5dd001bf5da6.png)
+
+![Screenshot 2021-08-14 at 17-38-53 Three Column Preview Card](https://user-images.githubusercontent.com/75600902/129441809-8cf9c738-bb07-4659-b3ec-c959fc001644.png)
 
 ### Links
 
@@ -46,5 +42,3 @@ Users should be able to:
 
 - Website - [adeline june](https://github.com/adelinejune)
 - Frontend Mentor - [@adelinejune](https://www.frontendmentor.io/profile/adelinejune)
-
-
